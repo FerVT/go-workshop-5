@@ -10,7 +10,7 @@ import (
 
 // What about shared resources?
 
-func tasks() {
+func goroutines() {
 	now := time.Now()
 
 	task1()
