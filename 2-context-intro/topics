@@ -1,0 +1,11 @@
+- background
+- sleep and talk
+    - std input
+    - timeout
+- server & client (from this point on maybe try to integrate it with the repo from Rollo)
+    - server takes 10s
+    - client waits 5s & exits, without context!
+
+    - server takes 10s, handles context
+    - client waits 5s & exits with context
+- context with values
