@@ -3,5 +3,6 @@ package main
 func main() {
 	// goroutines()
 	// mutex()
-	channels()
+	// channels()
+	usingSelect()
 }
