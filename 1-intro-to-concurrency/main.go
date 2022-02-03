@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// goroutines()
-	mutex()
+	// mutex()
+	channels()
 }
