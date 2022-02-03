@@ -10,7 +10,8 @@ import (
 )
 
 func main() {
-	withCancel()
+	//withCancel()
+	//withDuration()
 }
 
 func withCancel() {
